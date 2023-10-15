@@ -1,0 +1,10 @@
+br/com/mikebruno/todolist/task/TaskModel.class
+br/com/mikebruno/todolist/TodolistApplication.class
+br/com/mikebruno/todolist/filter/FilterTaskAuth.class
+br/com/mikebruno/todolist/task/ITaskRepository.class
+br/com/mikebruno/todolist/errors/ExceptionHandlerController.class
+br/com/mikebruno/todolist/user/UserController.class
+br/com/mikebruno/todolist/utils/Utils.class
+br/com/mikebruno/todolist/task/TaskController.class
+br/com/mikebruno/todolist/user/IUserRepository.class
+br/com/mikebruno/todolist/user/UserModel.class

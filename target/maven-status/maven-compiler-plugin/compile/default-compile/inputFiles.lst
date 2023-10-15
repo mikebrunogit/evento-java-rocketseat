@@ -1,0 +1,10 @@
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/task/TaskController.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/filter/FilterTaskAuth.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/user/IUserRepository.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/task/TaskModel.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/user/UserController.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/TodolistApplication.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/task/ITaskRepository.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/user/UserModel.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/errors/ExceptionHandlerController.java
+/home/mike/java/todolist/src/main/java/br/com/mikebruno/todolist/utils/Utils.java
